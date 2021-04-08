@@ -1,0 +1,14 @@
+main.c:95:6:przepiszPlik	24	static
+main.c:102:6:otworzPlikZTekstem	8	static
+main.c:111:6:otworzPlikZParametrami	32	static
+main.c:130:6:wypelnijGlownaTablice	16	static
+main.c:138:5:dlugoscTablicyGlownej	16	static
+main.c:148:6:dodajMacierzLitery	48	static
+main.c:159:6:KonwertujTekst	2888	static
+main.c:936:6:DostosujDoPrzewijania	48	static
+main.c:955:6:ArrayToLed	48	static
+main.c:987:6:write_byte	24	static
+main.c:997:6:maxInit	24	static
+main.c:1019:5:main	8	static
+main.c:1103:6:SystemClock_Config	88	static
+main.c:1151:6:Error_Handler	4	static,ignoring_inline_asm
